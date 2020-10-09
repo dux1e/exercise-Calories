@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Ingredient
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ingredient\ here.\r\n\r\n\ @author\ Joakim\ Christensen\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ fatPer100g
+comment1.target=Ingredient(java.lang.String,\ double)
+comment10.params=protein
+comment10.target=void\ setProtein(double)
+comment11.params=fat
+comment11.target=void\ setFat(double)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double\ getKCAL()
+comment4.params=
+comment4.target=double\ getCarb()
+comment5.params=
+comment5.target=double\ getProtein()
+comment6.params=
+comment6.target=double\ getFat()
+comment7.params=name
+comment7.target=void\ setName(java.lang.String)
+comment8.params=
+comment8.target=void\ setKCAL()
+comment9.params=carb
+comment9.target=void\ setCarb(double)
+numComments=12
